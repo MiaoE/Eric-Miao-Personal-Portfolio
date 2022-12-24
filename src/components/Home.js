@@ -18,14 +18,13 @@ export default function Home() {
                     </p>
                 </div>
                 <div className="justify-center items-center text-center">
-                    <a href="#about" className="inline-flex text-white bg-gray-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4">
+                    <a href="#about" className="inline-flex text-white bg-gray-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-70">
                         About Me
                     </a>
-                    <a href="#projects" className="inline-flex text-white bg-gray-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4">
+                    <a href="#projects" className="inline-flex text-white bg-gray-500 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-70">
                         My Projects
                     </a>
                 </div>
-                
             </div>
         </section>
     )
