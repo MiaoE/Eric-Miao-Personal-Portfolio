@@ -12,19 +12,14 @@ export default function Projects() {
             <li>Developed <a href="https://github.com/MiaoE/Auto-Immune" className="underline">Auto Immune</a>, an isometric strategy game in Java using LWJGL library and jMonkeyEngine (2020)</li>
             <li>Developed <a href="https://github.com/MiaoE/Dubers-Revenge" className="underline">Duber's Revenge</a>, a top-down shooter survival game in Java using the swing library from javax package (2019)</li>
             <li>Designed a robot that can navigate through a course using motors, ultrasonic sensors, and fluorescent display (2019)</li>
-            <li>Developed <a href="https://github.com/MiaoE/Lost-Path" className="underline">A Lost Path</a>, </li>
+            <li>Developed <a href="https://github.com/MiaoE/Lost-Path" className="underline">A Lost Path</a>, a 2D platform game in Python using pygame library</li>
           </p>
         </div>
         <div className="flex justify-center items-right">
           <a
-            href="#contact"
+            href="https://github.com/MiaoE?tab=repositories"
             className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-            Work With Me
-          </a>
-          <a
-            href="#projects"
-            className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-            See My Past Work
+            Github
           </a>
         </div>
       </div>
