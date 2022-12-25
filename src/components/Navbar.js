@@ -1,11 +1,10 @@
 import React from "react";
-import {BrowserRouter, Link} from "react-router-dom";
+import {Link} from "react-router-dom";
 
 export default function Navbar() {
   return (
     <header className="bg-gradient-to-l from-blue-600 to-indigo-900 md:sticky top-0 z-10 bg-opacity-40">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-        <BrowserRouter>
         <Link to="/" className="title-font font-medium text-white mb-4 md:mb-0 ml-3 text-xl">
           Eric Miao
         </Link>
@@ -27,7 +26,6 @@ export default function Navbar() {
           className="inline-flex items-center border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0 text-xl text-gray-400">
           Seeking Summer Internship
         </Link>
-        </BrowserRouter>
       </div>
     </header>
   );
