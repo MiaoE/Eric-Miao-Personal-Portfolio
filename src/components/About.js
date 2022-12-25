@@ -2,67 +2,53 @@ import React from "react";
 
 export default function About() {
   return (
-    <section id="about" className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
-      <div id="hobbies" className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
+    <section id="about" className="container mx-auto flex px-10 py-20 flex-row md:flex-col items-center bg-gray-900 bg-opacity-40">
+      <div className="container mx-auto flex px-10 py-20 flex-col md:flex-row items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            My Hobbies
+            Education and Courses
           </h1>
-          <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          <p className="leading-relaxed">
+            University of Toronto - Engineering Science | 2021-Present
+            <li>Computer Programming: Python and C, Algorithms and Data Structures (Year 1)</li>
+            <li>Electrical Curcuits (Year 1)</li>
+            <li>Calculus and Linear Algebra (Year 1)</li>
+            <li>Structures, Molecules, and Materials (Year 1)</li>
+            <li>Digital and Computer Systems: System Verilog and RISC-V-32I (Year 2)</li>
+            <li>Vector Calculus, Ordinary Differential Equations (Year 2)</li>
+            <li>Thermodynamics and Heat Transfer (Year 2)</li>
+            <li>Fluid Mechanics (Year 2)</li>
+            Richmond Hill High School (ON) | 2017-2021
+            <li>Computer Science: Java and Python, Object-oriented Programming (Grades 10, 11, 12)</li>
+            <li>Computer Engineering: Arduino (Grade 11)</li>
           </p>
-          <div className="flex justify-center">
-            <a
-              href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
-            </a>
-            <a
-              href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Past Work
-            </a>
-          </div>
-        </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="./coding.svg"
-          />
         </div>
       </div>
-      <div id="education">
-      <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+      <div className="container mx-auto flex px-10 py-20 flex-col md:flex-row items-center">
+        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            My Education
+            Experiences
           </h1>
-          <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          <p className="leading-relaxed border-b">
+            Assistant Instructor, Instructor, and Summer Camp Counsellor | Nov, 2019 - Sep, 2020<br />
+            <a href="https://www.engineeringforkids.com/toronto-york-region/">Engineering For Kids Toronto - York Region</a><br />
           </p>
-          <div className="flex justify-center">
-            <a
-              href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
-            </a>
-            <a
-              href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Past Work
-            </a>
-          </div>
+          <p className="leading-relaxed">
+            As an instructor for children aged 5 to 12, I was responsible for delivering course material in an intriguing way 
+            that sparks their interest in engineering. Material that I taught include programming a Lego robot, making games with 
+            Scratch and Clickteam Fusion, and designing unique toys using TinkerCAD.
+          </p>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src="./coding.svg"
-          />
+      </div>
+      <div className="container mx-auto flex px-10 py-20 flex-col md:flex-row items-center">
+        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
+            Hobbies
+          </h1>
+          <p className="leading-relaxed w-1/2">
+            I love camping as it gives me a chance of being outside and enjoying nature. It also gives me the opportunity to bond with
+            family, friends, and family friends. 
+          </p>
         </div>
       </div>
     </section>
