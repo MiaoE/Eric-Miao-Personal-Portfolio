@@ -9,10 +9,7 @@ function App() {
   return (
     <main className="text-white bg-homebg bg-no-repeat bg-fixed bg-center bg-gray-900 body-font">
       <Navbar />
-      <Home />
-      <About />
-      <Projects />
-      <Contact />
+      <Page />
     </main>
     
   );
