@@ -36,10 +36,10 @@ export default function Contact() {
           <button onClick={emailCopy} className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 justify-items-center">
             <img src="/assets/emailicon.png" className="object-contain" />
           </button>
-          <a href="https://github.com/MiaoE" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 justify-items-center">
+          <a href="https://github.com/MiaoE" target="_blank" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 justify-items-center">
             <img src="/assets/githubicon.png" className="m-auto" />
           </a>
-          <a href="https://www.linkedin.com/in/eric-miao-499384122/" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 ">
+          <a href="https://www.linkedin.com/in/eric-miao-499384122/" target="_blank" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 ">
             <img src="/assets/linkedinicon.png" className="w-12 h-12 m-2" />
           </a>
         </div>
