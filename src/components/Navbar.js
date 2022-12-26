@@ -1,5 +1,6 @@
 import React from "react";
 import {Link} from "react-router-dom";
+import Pdf from "../Resume.pdf";
 
 export default function Navbar() {
   return (
@@ -22,7 +23,8 @@ export default function Navbar() {
         </div>
 
         <Link
-          to="/hiring"
+          to={Pdf}
+          target="_blank"
           className="inline-flex items-center border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0 text-xl text-gray-400">
           Seeking Summer Internship
         </Link>
