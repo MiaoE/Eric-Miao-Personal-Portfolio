@@ -26,7 +26,7 @@ export default function Navbar() {
           to={Pdf}
           target="_blank"
           className="inline-flex items-center border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0 text-xl text-gray-400">
-          Seeking Summer Internship
+          Resume
         </Link>
       </div>
     </header>
