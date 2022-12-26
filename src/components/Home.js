@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 export default function Home() {
     return(
@@ -18,12 +19,12 @@ export default function Home() {
                     </p>
                 </div>
                 <div className="justify-center items-center text-center">
-                    <a href="#about" className="inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-60">
+                    <Link to="/about" className="inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-60">
                         About Me
-                    </a>
-                    <a href="#projects" className="inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-60">
+                    </Link>
+                    <Link to="/projects" className="inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-60">
                         My Projects
-                    </a>
+                    </Link>
                 </div>
             </div>
         </section>
