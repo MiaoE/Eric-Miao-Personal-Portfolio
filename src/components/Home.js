@@ -3,8 +3,8 @@ import {Link} from "react-router-dom";
 
 export default function Home() {
     return(
-        <section id="home" className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center bg-gray-900 bg-opacity-50">
-            <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:text-center mb-16 md:mb-0 items-center">
+        <section id="home" className="flex px-10 sm:py-10 md:py-20 md:flex-row flex-col bg-homebg bg-no-repeat bg-fixed bg-center items-center">
+            <div className="container lg:flex-grow mx-auto md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:text-center pb-16 md:pb-12 items-center bg-gray-900 bg-opacity-30">
                 <h1 className="title-font sm:text-4xl text-3xl mb-4 pr-2 pl-2 pt-1 pb-2 font-medium text-white text-center justify-center">
                     Hello, I'm Eric
                 </h1>
