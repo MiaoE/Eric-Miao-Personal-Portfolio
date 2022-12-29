@@ -7,7 +7,7 @@ import {Route, Switch} from "react-router-dom";
 
 function App() {
   return (
-    <main className="text-white bg-homebg bg-no-repeat bg-fixed bg-center bg-gray-900 body-font">
+    <main className="text-white body-font">
       <Navbar />
       <Switch>
         <Route path="/" component={Home} exact />

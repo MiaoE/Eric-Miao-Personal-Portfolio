@@ -30,7 +30,7 @@ export default function Contact() {
   }
 
   return (
-    <section id="contact" className="relative">
+    <section id="contact" className="relative bg-homebg bg-no-repeat bg-fixed bg-center w-full h-screen">
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <div className="md:w-1/4 sm:w-1/3 rounded-lg overflow-hidden sm:mr-10 p-10 flex flex-row items-end justify-center relative">
           <button onClick={emailCopy} className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 justify-items-center">
