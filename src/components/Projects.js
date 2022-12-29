@@ -22,20 +22,22 @@ export default function Projects() {
           <div className="bg-autoimmunebg h-3/4 bg-fixed bg-no-repeat bg-center bg-cover w-full mx-auto">
             <div className="bg-gray-900 py-64 bg-opacity-40">
               <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Auto-Immune" className="underline">Auto Immune</a></h1>
-              an isometric strategy game in Java using LWJGL library and jMonkeyEngine (2020)
+              An isometric strategy game in Java using LWJGL library and jMonkeyEngine (2020)
             </div>
           </div>
           <br className="container py-10 px-10" />
           <div className="bg-duberbg h-3/4 bg-fixed bg-no-repeat bg-center bg-cover w-full mx-auto">
             <div className="bg-gray-900 py-64 bg-opacity-40">
-              <h1 className="text-xl title-font text-white"></h1>
-              <a href="https://github.com/MiaoE/Dubers-Revenge" className="underline">Duber's Revenge</a>, a top-down shooter survival game in Java using the swing library from javax package (2019)
+              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Dubers-Revenge" className="underline">Duber's Revenge</a></h1>
+              A top-down shooter survival game in Java using the swing library from javax package (2019)
             </div>
           </div>
           <br className="container py-10 px-10" />
-          <div className="w-full h-3/4 py-64 mx-auto">
-            <h1 className="text-xl title-font text-white"></h1>
-            <a href="https://github.com/MiaoE/Lost-Path" className="underline">A Lost Path</a>, a 2D platform game in Python using pygame library
+          <div className="w-full h-3/4 mx-auto bg-lostpathbg bg-fixed bg-no-repeat bg-bottom bg-cover">
+            <div className="bg-gray-900 py-64 bg-opacity-40">
+              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Lost-Path" className="underline">A Lost Path</a></h1>
+              A 2D platform game in Python using the pygame library. Originally in Python 2, later updated to Python 3.
+            </div>
           </div>
           <br className="container py-10 px-10" />
           <div className="w-full h-3/4 py-64 mx-auto">
