@@ -9,10 +9,10 @@ export default function Home() {
                     Hello, I'm Eric
                 </h1>
                 <div className="mt-16 mb-16">
-                    <img src="/assets/me1.jpg" alt="" className="rounded-full w-96 h-96 object-cover" />
+                    <img src="/assets/me1.jpg" alt="Eric" className="rounded-full w-96 h-96 object-cover" />
                 </div>
-                <div className="lg:flex justify-center pt-2 pl-4 pr-4">
-                    <p className="mb-2 text-white w-96">
+                <div className="lg:flex justify-center pt-2 pl-4 pr-4 sm:w-48 md:w-96">
+                    <p className="mb-2 text-white">
                         Welcome and thank you for visiting my website. Here, you will find 
                         a little more information about me. They include my hobbies, my past and current
                         education, my past work and projects, and finally ways of contacting me.

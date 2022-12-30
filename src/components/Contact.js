@@ -34,13 +34,13 @@ export default function Contact() {
       <div className="container px-5 py-10 mx-auto flex flex-wrap">
         <div className="md:w-1/4 sm:w-1/3 rounded-lg overflow-hidden sm:mr-10 p-10 flex flex-row items-end justify-center relative">
           <button onClick={emailCopy} className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 justify-items-center">
-            <img src="/assets/emailicon.png" className="object-contain" />
+            <img src="/assets/emailicon.png" alt="Email icon" className="object-contain" />
           </button>
-          <a href="https://github.com/MiaoE" target="_blank" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 justify-items-center">
-            <img src="/assets/githubicon.png" className="m-auto" />
+          <a href="https://github.com/MiaoE" target="_blank" rel="noreferrer" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 justify-items-center">
+            <img src="/assets/githubicon.png" alt="Github icon" className="m-auto" />
           </a>
-          <a href="https://www.linkedin.com/in/eric-miao-499384122/" target="_blank" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 ">
-            <img src="/assets/linkedinicon.png" className="w-12 h-12 m-2" />
+          <a href="https://www.linkedin.com/in/eric-miao-499384122/" rel="noreferrer" target="_blank" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 ">
+            <img src="/assets/linkedinicon.png" alt="LinkedIn icon" className="w-12 h-12 m-2" />
           </a>
         </div>
         <form
