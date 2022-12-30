@@ -4,12 +4,12 @@ import {Link} from "react-router-dom";
 export default function Home() {
     return(
         <section id="home" className="flex px-10 sm:py-10 md:py-20 flex-col bg-homebg bg-no-repeat bg-fixed bg-center items-center">
-            <div className="container lg:flex-grow mx-auto md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:text-center pb-16 md:pb-12 items-center bg-gray-900 bg-opacity-30">
+            <div className="container lg:flex-grow mx-auto lg:pr-24 md:pr-16 flex flex-col md:text-center pb-16 md:pb-12 items-center bg-gray-900 bg-opacity-30 rounded-3xl">
                 <h1 className="title-font sm:text-4xl text-3xl mb-4 pr-2 pl-2 pt-1 pb-2 font-medium text-white text-center justify-center">
                     Hello, I'm Eric
                 </h1>
                 <div className="mt-16 mb-16">
-                    <img src="/assets/me1.jpg" className="rounded-full w-96 h-96 object-cover" />
+                    <img src="/assets/me1.jpg" alt="" className="rounded-full w-96 h-96 object-cover" />
                 </div>
                 <div className="lg:flex justify-center pt-2 pl-4 pr-4">
                     <p className="mb-2 text-white w-96">
