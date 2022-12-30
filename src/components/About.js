@@ -2,8 +2,8 @@ import React from "react";
 
 export default function About() {
   return (
-    <section id="about" className="mx-auto flex md:flex-col items-center bg-gray-800">
-      <div className="mx-auto flex bg-campbg bg-cover bg-center bg-no-repeat bg-fixed px-10 py-48 flex-col md:flex-row items-center w-full">
+    <section id="about" className="mx-auto flex flex-col items-center bg-gray-800">
+      <div className="mx-auto flex bg-campbg bg-cover bg-center bg-no-repeat bg-fixed px-10 py-48 flex-col items-center w-full">
         <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left pb-4 pt-4 items-center text-center bg-gray-900 bg-opacity-50 rounded-2xl">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hobbies
@@ -15,7 +15,7 @@ export default function About() {
         </div>
       </div>
       <br className="container py-10 px-10" />
-      <div className="mx-auto flex px-10 py-48 flex-col md:flex-row items-center w-full">
+      <div className="mx-auto flex px-10 py-48 flex-col items-center w-full">
         <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left pb-4 pt-4 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Experiences
@@ -32,7 +32,7 @@ export default function About() {
         </div>
       </div>
       <br className="container py-10 px-10" />
-      <div className="mx-auto flex bg-uoftbg bg-cover bg-bottom bg-no-repeat bg-fixed px-10 py-48 flex-col md:flex-row items-center w-full">
+      <div className="mx-auto flex bg-uoftbg bg-cover bg-bottom bg-no-repeat bg-fixed px-10 py-48 flex-col items-center w-full">
         <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left pb-4 pt-4 items-center text-center bg-gray-900 bg-opacity-70 rounded-2xl">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Education and Courses
