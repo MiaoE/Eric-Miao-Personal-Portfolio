@@ -22,7 +22,7 @@ export default function About() {
           </h1>
           <p className="leading-relaxed border-b">
             Assistant Instructor, Instructor, and Summer Camp Counsellor | Nov, 2019 - Sep, 2020<br />
-            <a href="https://www.engineeringforkids.com/toronto-york-region/">Engineering For Kids Toronto - York Region</a><br />
+            <a href="https://www.engineeringforkids.com/toronto-york-region/"  target="_blank" rel="noreferrer">Engineering For Kids Toronto - York Region</a><br />
           </p>
           <p className="leading-relaxed">
             As an instructor for children aged 5 to 12, I was responsible for delivering course material in an intriguing way 

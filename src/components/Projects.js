@@ -14,6 +14,7 @@ export default function Projects() {
               <a
                 href="https://github.com/MiaoE?tab=repositories"
                 target="_blank"
+                rel="noreferrer"
                 className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
                 Github
               </a>
@@ -22,7 +23,7 @@ export default function Projects() {
 
           <div className="bg-flightbg h-3/4 bg-fixed bg-no-repeat bg-botton bg-cover w-full mx-auto">
             <div className="bg-gray-900 py-48 bg-opacity-60">
-              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Flight-Studio" className="underline">Flight Studio</a> | November, 2022</h1>
+              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Flight-Studio" target="_blank" rel="noreferrer" className="underline">Flight Studio</a> | November, 2022</h1>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 A browser-based flight query service that provides the flight informations of the five cheapest flights given
                 a prompt written in English. The prompt must consist of a departure city or airport, an arrival city or airport, 
@@ -33,7 +34,7 @@ export default function Projects() {
                 include a private chatting room for people on your flight, a login/register system that connects with 
                 Appwrite backend server and accesses user information from Appwrite database.
                 <br /><br />
-                This project was created for <a href="https://www.newhacks.ca/" className="underline">NewHacks 2022</a>,
+                This project was created for <a href="https://www.newhacks.ca/" target="_blank" rel="noreferrer" className="underline">NewHacks 2022</a>,
                 a 24 hour hackathon event hosted by the University of Toronto IEEE and sponsored by MLH. It uses Next.js
                 and tailwindCSS frameworks for front-end hosting, and Flask for back-end.
               </p>
@@ -43,21 +44,24 @@ export default function Projects() {
           <div className="w-full h-3/4 py-8 mx-auto">
             <h1 className="text-xl title-font text-white">Various University Projects | September, 2021 - April, 2022</h1>
             <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
-              Various programming projects in <a href="https://engineering.calendar.utoronto.ca/course/esc180h1" className="underline">Introduction to Computer Programming (ESC180)</a>
-              and <a href="https://engineering.calendar.utoronto.ca/course/esc190h1" className="underline">Computer Algorithms and Data Structures (ESC190)</a>. 
+              Various programming projects in <a href="https://engineering.calendar.utoronto.ca/course/esc180h1" target="_blank" rel="noreferrer" className="underline">
+                Introduction to Computer Programming (ESC180)
+              </a> and <a href="https://engineering.calendar.utoronto.ca/course/esc190h1" target="_blank" rel="noreferrer" className="underline">
+                Computer Algorithms and Data Structures (ESC190)
+              </a>. 
               ESC180 is taught in Python and ESC190 is taught in C.
               <br /><br />
-              Machine Learning related: <a href="https://github.com/MiaoE/Semantic-Similarity" className="underline">Semantic Similarity</a> (Python)
+              Machine Learning related: <a href="https://github.com/MiaoE/Semantic-Similarity" target="_blank" rel="noreferrer" className="underline">Semantic Similarity</a> (Python)
               <br />
-              Data Structure focused: <a href="https://github.com/MiaoE/Order-Management" className="underline">Order Management</a> (C)
+              Data Structure focused: <a href="https://github.com/MiaoE/Order-Management" target="_blank" rel="noreferrer" className="underline">Order Management</a> (C)
               <br />
-              Data manipulation: <a href="https://github.com/MiaoE/Data-Encryption" className="underline">Data Encryption</a> (C)
+              Data manipulation: <a href="https://github.com/MiaoE/Data-Encryption" target="_blank" rel="noreferrer" className="underline">Data Encryption</a> (C)
             </p>
           </div>
           <br className="container py-10 px-10" />
           <div className="bg-autoimmunebg h-3/4 bg-fixed bg-no-repeat bg-center bg-cover w-full mx-auto">
             <div className="bg-gray-900 py-48 bg-opacity-60">
-              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Auto-Immune" className="underline">Auto Immune</a> | October, 2019 - January, 2020</h1>
+              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Auto-Immune" target="_blank" rel="noreferrer" className="underline">Auto Immune</a> | October, 2019 - January, 2020</h1>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 An isometric strategy game where players must manipulate the eyeball (melee), syringe (long distance),
                 and the pill (knockback) to protect the lungs from parasites and viruses for 5 rounds. There are also
@@ -72,7 +76,7 @@ export default function Projects() {
           <br className="container py-10 px-10" />
           <div className="bg-duberbg h-3/4 bg-fixed bg-no-repeat bg-center bg-cover w-full mx-auto">
             <div className="bg-gray-900 py-48 bg-opacity-60">
-              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Dubers-Revenge" className="underline">Duber's Revenge</a> | October, 2018 - January, 2019</h1>
+              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Dubers-Revenge" target="_blank" rel="noreferrer" className="underline">Duber's Revenge</a> | October, 2018 - January, 2019</h1>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 A top-down shooter survival game where the player must survive waves of zombies for as long as possible.
                 The player can purchase guns and accessories, such as ammo and medkits, from the store. In addition,
@@ -97,7 +101,7 @@ export default function Projects() {
           <br className="container py-10 px-10" />
           <div className="w-full h-3/4 mx-auto bg-lostpathbg bg-fixed bg-no-repeat bg-bottom bg-cover">
             <div className="bg-gray-900 py-48 bg-opacity-60">
-              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Lost-Path" className="underline">A Lost Path</a> | March - June, 2018</h1>
+              <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Lost-Path" target="_blank" rel="noreferrer" className="underline">A Lost Path</a> | March - June, 2018</h1>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 A 2D platform game where the player must survive three different rounds of asteroid and comet attacks
                 from the sky. Each round has its unique background and music. The platform would also spawn at various 
@@ -116,6 +120,7 @@ export default function Projects() {
           <a
             href="https://github.com/MiaoE?tab=repositories"
             target="_blank"
+            rel="noreferrer"
             className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
             Github
           </a>
