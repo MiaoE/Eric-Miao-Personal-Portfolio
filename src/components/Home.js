@@ -4,7 +4,7 @@ import {Link} from "react-router-dom";
 export default function Home() {
     return(
         <section id="home" className="flex px-10 sm:py-10 md:py-20 flex-col bg-homebg bg-no-repeat bg-fixed bg-center items-center">
-            <div className="container lg:flex-grow mx-auto lg:pr-24 md:pr-16 flex flex-col md:text-center pb-16 md:pb-12 items-center bg-gray-900 bg-opacity-30 rounded-3xl">
+            <div className="container lg:flex-grow mx-auto flex flex-col md:text-center pb-16 md:pb-12 lg:w-2/3 sm:w-3/4 items-center bg-gray-900 bg-opacity-50 rounded-3xl">
                 <h1 className="title-font sm:text-4xl text-3xl mb-4 pr-2 pl-2 pt-1 pb-2 font-medium text-white text-center justify-center">
                     Hello, I'm Eric
                 </h1>
