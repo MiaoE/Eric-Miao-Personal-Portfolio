@@ -37,7 +37,7 @@ export default function Contact() {
             <img src="/assets/emailicon.png" alt="Email icon" className="object-contain" />
           </button>
           <a href="https://github.com/MiaoE" target="_blank" rel="noreferrer" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 justify-items-center">
-            <img src="/assets/githubicon.png" alt="Github icon" className="m-auto" />
+            <img src="/assets/githubicon.png" alt="Github icon" className="object-contain m-auto" />
           </a>
           <a href="https://www.linkedin.com/in/eric-miao-499384122/" rel="noreferrer" target="_blank" className="container w-16 h-16 bg-gray-200 bg-opacity-30 hover:bg-opacity-70 rounded-full md:mr-8 sm:mr-2 ">
             <img src="/assets/linkedinicon.png" alt="LinkedIn icon" className="w-12 h-12 m-2" />
