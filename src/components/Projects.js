@@ -35,14 +35,14 @@ export default function Projects() {
                 Appwrite backend server and accesses user information from Appwrite database.
                 <br /><br />
                 This project was created for <a href="https://www.newhacks.ca/" target="_blank" rel="noreferrer" className="underline">NewHacks 2022</a>,
-                a 24 hour hackathon event hosted by the University of Toronto IEEE and sponsored by MLH. It uses Next.js
+                a 24-hour hackathon event hosted by the University of Toronto IEEE and sponsored by MLH. It uses Next.js
                 and tailwindCSS frameworks for front-end hosting, and Flask for back-end.
               </p>
             </div>
           </div>
           <br className="container py-10 px-10" />
           <div className="w-full h-3/4 py-8 mx-auto">
-            <h1 className="text-xl title-font text-white">Various University Projects | September, 2021 - April, 2022</h1>
+            <h1 className="text-xl title-font text-white">Various University Console-based Projects | September, 2021 - April, 2022</h1>
             <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
               Various programming projects in <a href="https://engineering.calendar.utoronto.ca/course/esc180h1" target="_blank" rel="noreferrer" className="underline">
                 Introduction to Computer Programming (ESC180)

@@ -13,6 +13,7 @@ module.exports = {
         'uoftbg' : "url('/public/assets/uoftbg.jpg')",
         'lostpathbg' : "url('/public/assets/lostpathSnap.png')",
         'flightbg' : "url('/public/assets/flightSnap.jpg')",
+        'cadets' : "url('/public/assets/cadets.jpg')",
       }
     },
   },
