@@ -20,8 +20,8 @@ export default function About() {
         </div>
       </div>
       <br className="container py-10 px-10" />
-      <div className="mx-auto flex px-10 py-48 flex-col items-center w-full">
-        <div className="lg:flex-grow md:w-1/2 flex flex-col md:items-start md:text-left p-8 items-center text-center">
+      <div className="mx-auto flex px-10 py-48 flex-col items-center w-full bg-efkbg bg-cover bg-center bg-no-repeat bg-fixed">
+        <div className="lg:flex-grow md:w-1/2 flex flex-col md:items-start md:text-left p-8 items-center text-center bg-gray-900 bg-opacity-70 rounded-2xl">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Experiences
           </h1>
@@ -37,8 +37,8 @@ export default function About() {
         </div>
       </div>
       <br className="container py-10 px-10" />
-      <div className="mx-auto flex px-10 py-48 flex-col items-center w-full">
-        <div className="lg:flex-grow md:w-1/2 flex flex-col md:items-start md:text-left p-8 items-center text-center">
+      <div className="mx-auto flex px-10 py-48 flex-col items-center w-full bg-cadetsbg bg-cover bg-center bg-no-repeat bg-fixed">
+        <div className="lg:flex-grow md:w-1/2 flex flex-col md:items-start md:text-left p-8 items-center text-center bg-gray-900 bg-opacity-70 rounded-2xl">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Extracurriculars
           </h1>
