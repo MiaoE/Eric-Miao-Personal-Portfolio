@@ -9,7 +9,7 @@ export default function Contact() {
     navigator.clipboard.writeText("ericxmiao@gmail.com")
     .then(() => alert("Email copied to clipboard"), () => alert("Failed to copy email"));
   };
-
+{/*
   function encode(data) {
     return Object.keys(data)
       .map(
@@ -28,6 +28,7 @@ export default function Contact() {
       .then(() => alert("Message sent!"))
       .catch((error) => alert(error));
   }
+*/}
 
   return (
     <section id="contact" className="relative bg-homebg bg-no-repeat bg-fixed bg-center w-full h-screen">
@@ -43,7 +44,7 @@ export default function Contact() {
             <img src="/assets/linkedinicon.png" alt="LinkedIn icon" className="w-12 h-12 m-2" />
           </a>
         </div>
-        <form
+        {/*<form
           netlify
           name="test"
           onSubmit={handleSubmit}
@@ -98,7 +99,7 @@ export default function Contact() {
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
             Submit
           </button>
-        </form>
+  </form>*/}
       </div>
     </section>
   );
