@@ -22,7 +22,7 @@ export default function Home() {
                     <Link to="/about" className="inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-60">
                         About Me
                     </Link>
-                    <Link to="/projects" className="inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-60">
+                    <Link to="/experiences" className="inline-flex text-white bg-gray-600 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-60">
                         My Projects
                     </Link>
                 </div>
