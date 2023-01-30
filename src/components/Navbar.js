@@ -19,8 +19,8 @@ export default function Navbar() {
           <Link to="/about" className="mr-5 hover:text-white">
             About
           </Link>
-          <Link to="/projects" className="mr-5 hover:text-white">
-            Project
+          <Link to="/experiences" className="mr-5 hover:text-white">
+            Experiences
           </Link>
           {/*<Link to="/contact" className="mr-5 hover:text-white">
             Contact
