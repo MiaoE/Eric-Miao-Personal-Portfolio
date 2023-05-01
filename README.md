@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Welcome to my website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can access my website [here](https://MiaoE.github.io/).
 
 ## Available Scripts
 
