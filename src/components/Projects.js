@@ -10,9 +10,21 @@ export default function Projects() {
               My Experiences
             </h1>
           </div>
-          
+
+          <div className="mx-auto flex flex-col items-center w-full bg-jcibg bg-cover bg-center bg-no-repeat bg-fixed">
+            <div className="bg-gray-900 py-48 bg-opacity-60 w-full">
+              <p className="leading-relaxed border-b m-auto w-1/2">
+                Software QA Analyst | May 2023 - Present<br />
+                <a href="https://www.johnsoncontrols.com/"  target="_blank" rel="noreferrer" className="underline">Johnson Controls</a><br />
+              </p>
+              <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
+                To be added
+              </p>
+            </div>
+          </div>
+          <br className="container py-10 px-10" />
           <div className="mx-auto flex flex-col items-center w-full bg-efkbg bg-cover bg-center bg-no-repeat bg-fixed">
-            <div className="bg-gray-900 py-48 bg-opacity-60">
+            <div className="bg-gray-900 py-48 bg-opacity-60 w-full">
               <p className="leading-relaxed border-b m-auto w-1/2">
                 Assistant STEM Instructor, STEM Instructor, and Summer Camp Counsellor | Nov 2019 - Sep 2020<br />
                 <a href="https://www.engineeringforkids.com/toronto-york-region/"  target="_blank" rel="noreferrer" className="underline">Engineering For Kids Toronto - York Region</a><br />
@@ -33,7 +45,7 @@ export default function Projects() {
           </div>
 
           <div className="bg-flightbg h-3/4 bg-fixed bg-no-repeat bg-botton bg-cover w-full mx-auto">
-            <div className="bg-gray-900 py-48 bg-opacity-60">
+            <div className="bg-gray-900 py-48 bg-opacity-60 w-full">
               <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Flight-Studio" target="_blank" rel="noreferrer" className="underline">Flight Studio</a></h1>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 A browser-based flight query service that provides the flight informations of the five cheapest flights given
@@ -71,7 +83,7 @@ export default function Projects() {
           </div>
           <br className="container py-10 px-10" />
           <div className="bg-autoimmunebg h-3/4 bg-fixed bg-no-repeat bg-center bg-cover w-full mx-auto">
-            <div className="bg-gray-900 py-48 bg-opacity-60">
+            <div className="bg-gray-900 py-48 bg-opacity-60 w-full">
               <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Auto-Immune" target="_blank" rel="noreferrer" className="underline">Auto Immune</a></h1>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 An isometric strategy game where players must manipulate the eyeball (melee), syringe (long distance),
@@ -86,7 +98,7 @@ export default function Projects() {
           </div>
           <br className="container py-10 px-10" />
           <div className="bg-duberbg h-3/4 bg-fixed bg-no-repeat bg-center bg-cover w-full mx-auto">
-            <div className="bg-gray-900 py-48 bg-opacity-60">
+            <div className="bg-gray-900 py-48 bg-opacity-60 w-full">
               <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Dubers-Revenge" target="_blank" rel="noreferrer" className="underline">Duber's Revenge</a></h1>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 A top-down shooter survival game where the player must survive waves of zombies for as long as possible.
@@ -103,7 +115,7 @@ export default function Projects() {
           </div>
           <br className="container py-10 px-10" />
           <div className="w-full h-3/4 mx-auto bg-lostpathbg bg-fixed bg-no-repeat bg-bottom bg-cover">
-            <div className="bg-gray-900 py-48 bg-opacity-60">
+            <div className="bg-gray-900 py-48 bg-opacity-60 w-full">
               <h1 className="text-xl title-font text-white"><a href="https://github.com/MiaoE/Lost-Path" target="_blank" rel="noreferrer" className="underline">A Lost Path</a></h1>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 A 2D platform game where the player must survive three different rounds of asteroid and comet attacks
