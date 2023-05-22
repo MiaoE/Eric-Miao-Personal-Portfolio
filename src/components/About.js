@@ -8,14 +8,23 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hobbies
           </h1>
+          <h3 className="subtitle-font text-2xl">
+            Outdoors
+          </h3>
           <p className="leading-relaxed">
-            I love camping as it gives me a chance of being outside and enjoying nature. It also gives me the opportunity to bond with my
-            family and my friends. I also like to bike with friends, including mountain biking, trail/gravel biking and road biking. 
-            <br /><br />
-            At home, I enjoy playing piano; I love playing anime opening and closing pieces, such as One Summer's Day, as well as calming 
-            and nostalgic pieces, such as River Flows In You and Kiss The Rain. I also love to play video games, namely Valorant, Genshin 
-            Impact, and other small group party or multiplayer games.
-            <br />
+            <li>Camping - gives me a chance of being outside and enjoying nature and the opportunity to bond with my
+            family and friends</li>
+            <li>Biking - good lower-body exercise, bonding with friends. Includes mountain biking, trail/gravel biking and road biking</li>
+            <li>Driving - loves the freedom and the feeling of the breeze, capable of manual transmission</li>
+            <li>Shooting - practice accuracy and precision, not PAL licenced</li>
+            <li>Airsoft - shooting and being tactical, cosplays</li>
+          </p>
+          <h3 className="subtitle-font text-2xl">
+            Indoors
+          </h3>
+          <p>
+            <li>Gaming - Valorant, CS:GO, TheHunter: Breath of the Wild, Battlefield 1, Genshin Impact</li>
+            <li>Piano (discontinued) - anime opening/closing, soft/nostalgic</li>
           </p>
         </div>
       </div>
@@ -45,14 +54,15 @@ export default function About() {
             Education and Courses
           </h1>
           <p className="leading-relaxed text-gray-100">
-            University of Toronto - Engineering Science | 2021-Present
+            University of Toronto - Engineering Science | 2021-Present | Currently PEY 12-month work term
             <li>Computer Programming: Python and C, Algorithms and Data Structures (Year 1)</li>
             <li>Electrical Curcuits (Year 1)</li>
             <li>Calculus and Linear Algebra (Year 1)</li>
             <li>Structures, Molecules, and Materials (Year 1)</li>
             <li>Digital and Computer Systems: System Verilog and RISC-V-32I (Year 2)</li>
+            <li>Waves and Quantum Physics (Year 2)</li>
             <li>Vector Calculus, Ordinary Differential Equations (Year 2)</li>
-            <li>Thermodynamics and Heat Transfer (Year 2)</li>
+            <li>Thermodynamics, Heat Transfer, and Thermal Physics (Year 2)</li>
             <li>Fluid Mechanics (Year 2)</li>
             <br />
             Richmond Hill High School (ON) | 2017-2021

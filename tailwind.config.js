@@ -15,6 +15,7 @@ module.exports = {
         'flightbg' : "url('/public/assets/flightSnap.jpg')",
         'cadetsbg' : "url('/public/assets/cadets.jpg')",
         'efkbg' : "url('/public/assets/efkbg.jpg')",
+        'jcibg' : "url('/public/assets/bgjci.jpg')"
       }
     },
   },
