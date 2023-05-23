@@ -18,7 +18,7 @@ export default function Projects() {
                 <a href="https://www.johnsoncontrols.com/"  target="_blank" rel="noreferrer" className="underline">Johnson Controls</a><br />
               </p>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
-                To be added
+                IQ Pro Software Team. Details to be added
               </p>
             </div>
           </div>
