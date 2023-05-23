@@ -64,6 +64,7 @@ export default function About() {
             <li>Vector Calculus, Ordinary Differential Equations (Year 2)</li>
             <li>Thermodynamics, Heat Transfer, and Thermal Physics (Year 2)</li>
             <li>Fluid Mechanics (Year 2)</li>
+            <li>Praxis (Year 1 and 2)</li>
             <br />
             Richmond Hill High School (ON) | 2017-2021
             <li>Computer Science: Java and Python, Object-oriented Programming (Grades 10, 11, 12)</li>

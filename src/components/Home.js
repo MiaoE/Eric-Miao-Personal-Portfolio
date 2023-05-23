@@ -23,7 +23,7 @@ export default function Home() {
                         About Me
                     </Link>
                     <Link to="/experiences" className="inline-flex text-white bg-green-600 border-0 py-2 px-6 focus:outline-none hover:bg-green-700 rounded text-lg ml-4 bg-opacity-50 hover:bg-opacity-60">
-                        My Projects
+                        My Experiences
                     </Link>
                 </div>
                 <div className="text-sm w-3/4 pt-16">
