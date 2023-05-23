@@ -12,10 +12,10 @@ export default function About() {
             Outdoors
           </h3>
           <p className="leading-relaxed">
-            <li>Camping - gives me a chance of being outside and enjoying nature and the opportunity to bond with my
-            family and friends</li>
             <li>Biking - good lower-body exercise, bonding with friends. Includes mountain biking, trail/gravel biking and road biking</li>
             <li>Driving - loves the freedom and the feeling of the breeze, capable of manual transmission</li>
+            <li>Camping - gives me a chance of being outside and enjoying nature and the opportunity to bond with my
+            family and friends</li>
             <li>Shooting - practice accuracy and precision, not PAL licenced</li>
             <li>Airsoft - shooting and being tactical, cosplays</li>
           </p>
@@ -25,6 +25,7 @@ export default function About() {
           <p>
             <li>Gaming - Valorant, CS:GO, TheHunter: Breath of the Wild, Battlefield 1, Genshin Impact</li>
             <li>Piano (discontinued) - anime opening/closing, soft/nostalgic</li>
+            <li>Music</li>
           </p>
         </div>
       </div>
@@ -58,13 +59,12 @@ export default function About() {
             <li>Computer Programming: Python and C, Algorithms and Data Structures (Year 1)</li>
             <li>Electrical Curcuits (Year 1)</li>
             <li>Calculus and Linear Algebra (Year 1)</li>
+            <li>Vector Calculus, Ordinary Differential Equations (Year 2)</li>
             <li>Structures, Molecules, and Materials (Year 1)</li>
             <li>Digital and Computer Systems: System Verilog and RISC-V-32I (Year 2)</li>
             <li>Waves and Quantum Physics (Year 2)</li>
-            <li>Vector Calculus, Ordinary Differential Equations (Year 2)</li>
             <li>Thermodynamics, Heat Transfer, and Thermal Physics (Year 2)</li>
             <li>Fluid Mechanics (Year 2)</li>
-            <li>Praxis (Year 1 and 2)</li>
             <br />
             Richmond Hill High School (ON) | 2017-2021
             <li>Computer Science: Java and Python, Object-oriented Programming (Grades 10, 11, 12)</li>
