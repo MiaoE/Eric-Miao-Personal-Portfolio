@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
-import Projects from "./components/Projects";
+import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import {Route, Switch} from "react-router-dom";
 
@@ -12,7 +12,7 @@ function App() {
       <Switch>
         <Route path="/" component={Home} exact />
         <Route path="/about" component={About} />
-        <Route path="/experiences" component={Projects} />
+        <Route path="/experiences" component={Experience} />
         <Route path="/contact" component={Contact} />
       </Switch>
     </main>
