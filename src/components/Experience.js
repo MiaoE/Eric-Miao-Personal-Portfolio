@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function Projects() {
+export default function Experience() {
   return (
-    <section id="projects" className="bg-gray-900 body-font">
+    <section id="experience" className="bg-gray-900 body-font">
       <div className="py-2 mx-auto text-center">
         <div className="flex flex-col w-full pb-12">
           <div className="flex flex-row">
