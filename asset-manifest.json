@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f3fe14c.css",
+    "main.js": "/static/js/main.33947264.js",
+    "static/js/787.a8eba566.chunk.js": "/static/js/787.a8eba566.chunk.js",
+    "static/media/campbg.jpg": "/static/media/campbg.805fc9828a432f66a450.jpg",
+    "static/media/lostpathSnap.png": "/static/media/lostpathSnap.76203cbf65f55f1c87aa.png",
+    "static/media/cadets.jpg": "/static/media/cadets.41cd9e98097876abcc66.jpg",
+    "static/media/uoftbg.jpg": "/static/media/uoftbg.ece5193149bb8f066fa4.jpg",
+    "static/media/bgimghome.jpg": "/static/media/bgimghome.dd584d61652542a27d00.jpg",
+    "static/media/efkbg.jpg": "/static/media/efkbg.335c5923227a85563499.jpg",
+    "static/media/bgjci.jpg": "/static/media/bgjci.2a39b44eab989e147ab4.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.0ec9101039049e480077.pdf",
+    "static/media/flightSnap.jpg": "/static/media/flightSnap.d9e7dc51c52474dd634a.jpg",
+    "static/media/AutoImmuneSnap.png": "/static/media/AutoImmuneSnap.a7cd09460a9963efe620.png",
+    "static/media/DubersRevengeSnap.jpg": "/static/media/DubersRevengeSnap.b3eb91c346192366e84c.jpg",
+    "index.html": "/index.html",
+    "main.6f3fe14c.css.map": "/static/css/main.6f3fe14c.css.map",
+    "main.33947264.js.map": "/static/js/main.33947264.js.map",
+    "787.a8eba566.chunk.js.map": "/static/js/787.a8eba566.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3fe14c.css",
+    "static/js/main.33947264.js"
+  ]
+}
