@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ab8f371e.css",
-    "main.js": "/static/js/main.f0324796.js",
+    "main.js": "/static/js/main.967adaea.js",
     "static/js/787.a8eba566.chunk.js": "/static/js/787.a8eba566.chunk.js",
     "static/media/campbg.jpg": "/static/media/campbg.805fc9828a432f66a450.jpg",
     "static/media/lostpathSnap.png": "/static/media/lostpathSnap.76203cbf65f55f1c87aa.png",
@@ -16,11 +16,11 @@
     "static/media/DubersRevengeSnap.jpg": "/static/media/DubersRevengeSnap.b3eb91c346192366e84c.jpg",
     "index.html": "/index.html",
     "main.ab8f371e.css.map": "/static/css/main.ab8f371e.css.map",
-    "main.f0324796.js.map": "/static/js/main.f0324796.js.map",
+    "main.967adaea.js.map": "/static/js/main.967adaea.js.map",
     "787.a8eba566.chunk.js.map": "/static/js/787.a8eba566.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab8f371e.css",
-    "static/js/main.f0324796.js"
+    "static/js/main.967adaea.js"
   ]
 }
