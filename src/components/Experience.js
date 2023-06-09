@@ -19,7 +19,7 @@ export default function Experience() {
               </p>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
                 IQ Pro Software Team. More details to be added
-                <li>Software Automation - Android and Browser</li>
+                <li>Software Automation - Appium/Selenium, Jenkins pipeline</li>
               </p>
             </div>
           </div>
