@@ -18,7 +18,8 @@ export default function Experience() {
                 <a href="https://www.johnsoncontrols.com/"  target="_blank" rel="noreferrer" className="underline">Johnson Controls</a><br />
               </p>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
-                IQ Pro Software Team. Details to be added
+                IQ Pro Software Team. More details to be added
+                <li>Software Automation - Appium/Selenium, Jenkins pipeline</li>
               </p>
             </div>
           </div>
