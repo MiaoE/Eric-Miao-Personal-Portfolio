@@ -25,6 +25,9 @@ export default function Navbar() {
           {/*<Link to="/contact" className="mr-5 hover:text-white">
             Contact
           </Link>*/}
+          <Link to="/taxestimator" className="mr-5 hover:text-white">
+            Tax Estimator
+          </Link>
         </div>
 {/*
         <Link
