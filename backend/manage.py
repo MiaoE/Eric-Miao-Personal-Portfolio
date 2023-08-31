@@ -20,3 +20,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+'''
+superuser 
+username: admin
+email: eric.miao10@gmail.com
+pw: admin
+'''
+
