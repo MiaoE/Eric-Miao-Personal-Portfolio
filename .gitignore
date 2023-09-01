@@ -25,6 +25,6 @@ yarn-error.log*
 # backend and python's venv
 /dar/
 /backend/backend/__pycache__/
-/backend/todo/__pycache__/
-/backend/todo/migrations/
+/backend/*/__pycache__/
+/backend/*/migrations/
 /backend/db.sqlite3
