@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab8f371e.css",
+    "main.css": "/static/css/main.586ed7e5.css",
     "main.js": "/static/js/main.967adaea.js",
     "static/js/787.a8eba566.chunk.js": "/static/js/787.a8eba566.chunk.js",
     "static/media/campbg.jpg": "/static/media/campbg.805fc9828a432f66a450.jpg",
@@ -15,12 +15,12 @@
     "static/media/AutoImmuneSnap.png": "/static/media/AutoImmuneSnap.a7cd09460a9963efe620.png",
     "static/media/DubersRevengeSnap.jpg": "/static/media/DubersRevengeSnap.b3eb91c346192366e84c.jpg",
     "index.html": "/index.html",
-    "main.ab8f371e.css.map": "/static/css/main.ab8f371e.css.map",
+    "main.586ed7e5.css.map": "/static/css/main.586ed7e5.css.map",
     "main.967adaea.js.map": "/static/js/main.967adaea.js.map",
     "787.a8eba566.chunk.js.map": "/static/js/787.a8eba566.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab8f371e.css",
+    "static/css/main.586ed7e5.css",
     "static/js/main.967adaea.js"
   ]
 }
