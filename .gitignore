@@ -27,4 +27,7 @@ yarn-error.log*
 /backend/*/migrations/
 /backend/*.sqlite3
 
+# python virtual environment
+/pyvenv/
+
 /backend/todo/
