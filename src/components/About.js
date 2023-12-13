@@ -12,12 +12,12 @@ export default function About() {
             Outdoors
           </h3>
           <p className="leading-relaxed">
-            <li>Biking - good lower-body exercise, bonding with friends. Includes mountain biking, trail/gravel biking and road biking</li>
-            <li>Driving - loves the freedom and the feeling of the breeze, capable of manual transmission</li>
-            <li>Camping - gives me a chance of being outside and enjoying nature and the opportunity to bond with my
-            family and friends</li>
-            <li>Shooting - practice accuracy and precision, not PAL licenced</li>
-            <li>Airsoft - shooting and being tactical, cosplays</li>
+            <li>Biking - exercise and bonding with friends. Combination of mountain biking, trail/gravel biking and road biking</li>
+            <li>Driving - loves the freedom and the feeling of the breeze; capable of manual transmission</li>
+            <li>Camping - very refreshing, relaxing and a change of lifestyle; great for bonding with friends</li>
+            <li>Shooting - practice accuracy and precision; not PAL licenced</li>
+            <li>Airsoft - target shooting and tactical trainings</li>
+            <li>Boating - PCOC licenced, not ROC-M licenced</li>
           </p>
           <h3 className="subtitle-font text-2xl">
             Indoors

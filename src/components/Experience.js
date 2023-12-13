@@ -14,11 +14,19 @@ export default function Experience() {
           <div className="mx-auto flex flex-col items-center w-full bg-jcibg bg-cover bg-center bg-no-repeat bg-fixed">
             <div className="bg-gray-900 py-48 bg-opacity-60 w-full">
               <p className="leading-relaxed border-b m-auto w-1/2">
-                Software QA Analyst | May 2023 - Present<br />
+                DevOps Developer | Sep 2023 - Apr 2024<br />
                 <a href="https://www.johnsoncontrols.com/"  target="_blank" rel="noreferrer" className="underline">Johnson Controls</a><br />
               </p>
               <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
-                IQ Pro Software Team. More details to be added
+                More details to be added
+                <li>Software Automation - Jenkins pipeline</li>
+              </p>
+              <p className="leading-relaxed border-b m-auto w-1/2">
+                Software QA Analyst | May 2023 - Aug 2023<br />
+                <a href="https://www.johnsoncontrols.com/"  target="_blank" rel="noreferrer" className="underline">Johnson Controls</a><br />
+              </p>
+              <p className="md:w-1/2 sm:w-2/3 p-2 mx-auto">
+                More details to be added
                 <li>Software Automation - Appium/Selenium, Jenkins pipeline</li>
               </p>
             </div>
